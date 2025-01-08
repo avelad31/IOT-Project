@@ -18,3 +18,14 @@ El proyecto consiste en un sistema de seguridad por análisis biométrico facial
 - Preparar Servidor Modbus: Se establece una conexión vía wifi entre el ESP32 y el código Python a través de su conexión a la misma red Wifi, y se configura el microcontrolador como servidor Modbus para que reciba la señal digital (1 o 0) del código Python.
   
 El proceso se muestra en un diagrama de flujo y se detalla la configuración del ESP32 para complementar el código Python.
+
+
+
+https://github.com/avelad31/IOT-Project/blob/main/Images/Circuito.png
+#### WorkFlow del Sistema:
+![Workflow System](https://github.com/avelad31/IOT-Project/blob/main/Images/Diagrama%20de%20flujo%20del%20sistema%20integral.png)
+
+#### Circuito del Sistema:
+![Circuit System](https://github.com/avelad31/IOT-Project/blob/main/Images/Circuito.png)
+
+
